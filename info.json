@@ -1,0 +1,11 @@
+{
+  "name": "LTN-Locale",
+  "version": "0.0.1",
+  "title": "LTN 한국어 번역",
+  "author": "hellisoued",
+  "contact": "",
+  "homepage":"",
+  "description":"XMKTP LTN 번역의 개선판입니다. ",
+  "factorio_version": "1.1",
+  "dependencies": ["base", "(?)XMKTP"]
+}
